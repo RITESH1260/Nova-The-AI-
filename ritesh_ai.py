@@ -425,10 +425,10 @@ if __name__ == "__main__":
         
             # Your contact list
             contacts = {
-            "ritesh": "+919717218269",
-            "manish": "+919205356272",
-            "raju bhaiya": "+918368536704",
-            "sidharth" or "Siddharth cs" : "+917303923938"
+            "ritesh": "+9197XXXXXX69",
+            "manish": "+9192XXXXXX272",
+            "raju bhaiya": "+9183XXXXXX04",
+            "sidharth" or "Siddharth cs" : "+9173XXXXXX38"
             }
 
         elif "send message to" in query or "whatsapp message Tu" in query:
