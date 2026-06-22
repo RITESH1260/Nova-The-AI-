@@ -1,5 +1,7 @@
 # Nova AI Assistant
 
+assets/banner.png
+
 Nova AI Assistant is an advanced Python-based virtual voice assistant designed to automate desktop tasks, web operations, and voice-controlled interactions. The assistant uses speech recognition and text-to-speech technologies to provide a smart and interactive user experience.
 
 ---
@@ -121,6 +123,10 @@ python nova.py
 Developed by Ritesh Rawat
 
 ---
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## License
 
